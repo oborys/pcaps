@@ -1,0 +1,74 @@
+{
+   "tls": {
+      "s_cert": [
+         {
+            "signature_key_size": 2048, 
+            "signature_algo": "sha256WithRSAEncryption"
+         }, 
+         {
+            "signature_key_size": 2048, 
+            "signature_algo": "sha256WithRSAEncryption"
+         }, 
+         {
+            "signature_key_size": 1024, 
+            "signature_algo": "sha1WithRSAEncryption"
+         }
+      ]
+   }, 
+   "sa": "10.0.2.15", 
+   "sp": 60364, 
+   "linked_dns": {
+      "server_addr": "64.102.6.247", 
+      "dns": [
+         {
+            "rn": "www.google.com", 
+            "rr": [
+               {
+                  "a": "172.217.1.4", 
+                  "ttl": 252
+               }
+            ], 
+            "rc": 0
+         }
+      ], 
+      "time": 1465338219.146366
+   }, 
+   "da": "172.217.1.4"
+}
+{
+   "tls": {
+      "s_cert": [
+         {
+            "signature_key_size": 2048, 
+            "signature_algo": "sha256WithRSAEncryption"
+         }, 
+         {
+            "signature_key_size": 2048, 
+            "signature_algo": "sha256WithRSAEncryption"
+         }, 
+         {
+            "signature_key_size": 1024, 
+            "signature_algo": "sha1WithRSAEncryption"
+         }
+      ]
+   }, 
+   "sa": "10.0.2.15", 
+   "sp": 60365, 
+   "linked_dns": {
+      "server_addr": "64.102.6.247", 
+      "dns": [
+         {
+            "rn": "www.google.com", 
+            "rr": [
+               {
+                  "a": "172.217.1.4", 
+                  "ttl": 252
+               }
+            ], 
+            "rc": 0
+         }
+      ], 
+      "time": 1465338219.146366
+   }, 
+   "da": "172.217.1.4"
+}
